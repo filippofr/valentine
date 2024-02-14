@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   style = {};
   
-  url1 = "../assets/images/love-cat.gif";
-  url2 = "../assets/images/love2-cat.gif";
+  url1 = "./assets/images/love-cat.gif";
+  url2 = "./assets/images/love2-cat.gif";
 
   imgurl = this.url1;
 
